@@ -11,7 +11,11 @@ def guardarJSON(ruta,dic):
         json.dump(dic,outFile)  
 clientes={}
 
-datos=[]
+datos={}
+
+servicios={}
+
+datos2 ={}
     
 def leer_clientes ():
 
@@ -33,3 +37,12 @@ def agergar_clientes ():
     input("direccion:")
     input("c.c:")
     input("cliente:")
+
+def agregar_servicios ():
+    print("servicio que desea agregar ")
+    clientes.append ({servicios}[{datos2}])
+    input("nombre:")
+    input("precio:")
+    input("cada cuanto?:")
+
+

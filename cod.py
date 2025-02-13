@@ -15,11 +15,6 @@ clientes={}
 
 datos=[]
     
-
-
-
-
-
 lie= True
 while (lie == True):
 
@@ -28,7 +23,7 @@ while (lie == True):
     print('''
             What do you do?
         -------------------
-        1. Ver usuarios (Quejas)
+        1. Ver usuarios (Quejas), (sugerencias), (fidelidad)
         2. Eliminar usuario/s
         3. Agregar usuarios/s''')
     
@@ -37,18 +32,16 @@ while (lie == True):
     if (opc =="1"):
 
         leer_clientes()
-
         lie = False
 
     elif (opc =="2"):
 
         eliminar_clientes()
-
         lie = False
 
 
     elif (opc =="3"):
 
         agergar_clientes()
-
         lie = False
+        break

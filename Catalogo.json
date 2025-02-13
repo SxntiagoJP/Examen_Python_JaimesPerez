@@ -1,0 +1,28 @@
+{
+    "servicios": [
+        {
+            "datos2": [
+                {
+                    "internet": "con red 5g",
+                    "precio": "90.000",
+                    "cada": "mensual"
+                },
+                {
+                    "fibra optica": "no se q es",
+                    "precio": "40.000",
+                    "cada": "mensual"
+                },
+                {
+                    "parabolica": "4200 canales",
+                    "precio": "25.000",
+                    "cada": "mensual"
+                },
+                {
+                    "plan de datos": "2000 gb",
+                    "precio": "950.000",
+                    "cada": "trimestral"
+                }
+            ]
+        }
+    ]
+}

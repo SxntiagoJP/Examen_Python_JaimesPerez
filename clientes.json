@@ -6,35 +6,45 @@
                 "direccion": "cra 2 #31b-33",
                 "c.c": "1095307854",
                 "queja": "Muy lento el servicio, por favor arreglar velocidad",
-                "cliente": "nuevo cliente"
+                "sugerencia": "borren movistar",
+                "cliente": "nuevo cliente",
+                "Descuento": "no aplica.."
             },
             {
                 "nombre": "Edinson jaimes",
                 "direccion": "cra 3 #32b-234",
                 "c.c": "1095307678",
                 "queja": "No volveria a comprar en esta campañia",
-                "cliente": "nuevo cliente"
+                "sugerencia": "mejoren el servicio de llamadas",
+                "cliente": "nuevo cliente",
+                "Descuento": "no aplica.."
             },
             {
                 "nombre": "pedro aderiva",
                 "direccion": "cra 4 #33b-456",
                 "c.c": "1095307097",
                 "queja": "Me encantaria un cambio de modem, que @~#~@#~~@ tan lento",
-                "cliente": "nuevo cliente"
+                "sugerencia": "???",
+                "cliente": "nuevo cliente",
+                "Descuento": "no aplica.."
             },
             {
                 "nombre": "pedro aderiva",
                 "direccion": "cra 4 #33b-456",
                 "c.c": "1095307097",
                 "queja": "",
-                "cliente": "cliente regular "
+                "sugerencia": "exelente servicio",
+                "cliente": "cliente regular ",
+                "Descuento": "Aplica con compras mayores a 100.000"
             },
             {
                 "nombre": "pedro aderiva",
                 "direccion": "cra 4 #33b-456",
                 "c.c": "1095307097",
                 "queja": "",
-                "cliente": "cliente leal "
+                "sugerencia": "Sin sugerencias...",
+                "cliente": "cliente leal ",
+                "Descuento": "Aplica con cualquier compra"
             }
     ]}
     ]
