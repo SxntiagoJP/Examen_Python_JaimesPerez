@@ -1,22 +1,41 @@
 {
     "clientes": [
         {
-            "nombre": "Eliza carrascal",
-            "direccion": "cra 2 #31b-33",
-            "c.c": "1095307854",
-            "queja": "Muy lento el servicio, por favor arreglar velocidad"
-        },
-        {
-            "nombre": "Edinson jaimes",
-            "direccion": "cra 3 #32b-234",
-            "c.c": "1095307678",
-            "queja": "No volveria a comprar en esta campañia"
-        },
-        {
-            "nombre": "pedro aderiva",
-            "direccion": "cra 4 #33b-456",
-            "c.c": "1095307097",
-            "queja": "Me encantaria un cambio de modem, que @~#~@#~~@ tan lento"
-        }
+            "datos": [{
+                "nombre": "Eliza carrascal",
+                "direccion": "cra 2 #31b-33",
+                "c.c": "1095307854",
+                "queja": "Muy lento el servicio, por favor arreglar velocidad",
+                "cliente": "nuevo cliente"
+            },
+            {
+                "nombre": "Edinson jaimes",
+                "direccion": "cra 3 #32b-234",
+                "c.c": "1095307678",
+                "queja": "No volveria a comprar en esta campañia",
+                "cliente": "nuevo cliente"
+            },
+            {
+                "nombre": "pedro aderiva",
+                "direccion": "cra 4 #33b-456",
+                "c.c": "1095307097",
+                "queja": "Me encantaria un cambio de modem, que @~#~@#~~@ tan lento",
+                "cliente": "nuevo cliente"
+            },
+            {
+                "nombre": "pedro aderiva",
+                "direccion": "cra 4 #33b-456",
+                "c.c": "1095307097",
+                "queja": "",
+                "cliente": "cliente regular "
+            },
+            {
+                "nombre": "pedro aderiva",
+                "direccion": "cra 4 #33b-456",
+                "c.c": "1095307097",
+                "queja": "",
+                "cliente": "cliente leal "
+            }
+    ]}
     ]
 }
