@@ -9,7 +9,7 @@ filtro #2
 
 -----------------
 
-(---Para poder ejecutar cada ejercicio de cada dia---)
+(---Para poder ejecutar el codigo fuente---)
 
 buscar/entrar (cd) a la carpeta principal en la terminal
 luego procedemos a ingresar "python3 (documento.py)
