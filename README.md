@@ -1,4 +1,4 @@
-filtro #3
+filtro #2
 ---------
 
 (CONTENIDO)
